@@ -1,0 +1,44 @@
+// * {
+//   border: 1px solid blue;
+// }
+
+html {
+  font-family: sans-serif;
+}
+body {
+  max-width: 800px;
+  margin: 30px auto;
+  font-size: 12pt;
+}
+h1 {
+  font-size: 32pt;
+}
+h1, h2, h3, h4 {
+  color: #2152a0;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.post-date {
+  font-style: italic;
+  padding-right: 5px;
+}
+.floatR {
+  float: right;
+}
+.floatL {
+  float: left;
+}
+.clearB {
+  clear: both;
+}
+
+#header-title {
+  margin: 0;
+}
+#header-logo {
+  height: 50px;
+}
