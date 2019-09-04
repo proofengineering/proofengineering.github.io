@@ -2,8 +2,6 @@
 title: Errata for QED at Large
 ---
 
-# Errata for QED at Large
-
 Abbreviations for different types of corrections:
 
 - Cor - correction of language
