@@ -16,14 +16,17 @@
     <div class='clearB'></div>
   </div>
   <p>
-  Building systems in proof assistants is challenging for many reasons.
-  Such systems must tolerate changes gracefully: definitions may be
-  optimized for performance, new theorems may be added, and the proof
-  assistant itself may change how tactics work. Proof assistants are also
-  highly expressive; engineers must ensure that their specifications do not
-  accidentally allow for undesirable behavior. Furthermore, large-scale
-  developments often depend on good tactic performance, requiring
-  developers to reason about low-level performance costs.
+    Building, verifying, and maintaining software systems using proof assistants, such as
+    <a href="https://coq.inria.fr">Coq</a> and <a href="https://isabelle.in.tum.de">Isabelle/HOL</a>,
+    enables high trustworthiness, but is currently challenging for many reasons.
+  </p>
+  <p>
+    For example, proofs may break easily when definitions are changed, new theorems may be hard to add,
+    and updating the proof assistant itself may break existing definitions and proofs.
+    Proof assistant logics are also highly expressive; engineers must ensure that their
+    specifications can be satisfied with reasonable effort while disallowing undesirable behavior.
+    Moreover, large-scale projects often require extensive proof automation, forcing
+    engineers to measure and optimize the performance of low-level reasoning steps.
   </p>
 
   <p>
