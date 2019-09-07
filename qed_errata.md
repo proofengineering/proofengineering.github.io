@@ -20,7 +20,7 @@ Abbreviations for different types of corrections:
 | ------------------------- | ----------------------- | ----------------------------------- | --------------- | 
 | 108/16//                   | "... a _regular language_ ..." | (Fct) "... a _language_ ..." | Virgil Serbanuta | 
 | 121/17//                   | "For example, mst papers ..."  | (Cor) "For example, most papers ... " | Mukesh Tiwari | 
-| 184/28//[1](#exp1)                   | "universe polymorphism" | (Cit) "universe polymoprhism (Harper and Pollack, 1991)"  | Bob Harper |
+| 184/28//[1](#exp1)                   | "universe polymorphism" | (Cit) "universe polymorphism (Harper and Pollack, 1991)"  | Bob Harper |
 
 # Explanations
 
