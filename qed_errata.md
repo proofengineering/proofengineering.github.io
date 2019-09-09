@@ -21,8 +21,10 @@ Abbreviations for different types of corrections:
 | 108/16//                   | "... a _regular language_ ..." | (Fct) "... a _language_ ..." | Virgil Serbanuta | 
 | 121/17//                   | "For example, mst papers ..."  | (Cor) "For example, most papers ... " | Mukesh Tiwari | 
 | 184/28//[1](#exp1)                   | "universe polymorphism" | (Cit) "universe polymorphism (Harper and Pollack, 1991)"  | Bob Harper |
+| 190/15//[2](#exp2)         | "Cohen et al., 2018"  | (Cit) "Angiuli et al., 2017; Cohen et al., 2018" |	Bob Harper |
 
 # Explanations
 
 <a name="exp1">1</a>: The universe polymorphism algorithm in Coq that we cite is based on [Type Checking with Universes](https://doi.org/10.1016/0304-3975(90)90108-T) by Robert Harper and Randy Pollack. The DOI that we link to was published in 1991, though the algorithm surfaced in a draft from 1989 that is also available online [here](https://doi.org/10.1007/3-540-50940-2_39).
 
+<a name="exp2">2</a>: There are two flavors of cubical type theory, and we cite only one. The missing citation can be found in Computational Higher-Dimensional Type Theory by Carlo Angiuli, Robert Harper, and Todd Wilson
