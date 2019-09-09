@@ -15,6 +15,7 @@ Abbreviations for different types of corrections:
 - Cpltf - change of page layout or text format
 - Fct - factual correction
 - Cit - correction or addition of citation
+- Cod - correction of code
 
 | Page/Line/Footnote/Explanation        | Original text           | (type of correction) Corrected text | Acknowledgement | 
 | ------------------------- | ----------------------- | ----------------------------------- | --------------- | 
@@ -22,6 +23,7 @@ Abbreviations for different types of corrections:
 | 121/17//                   | "For example, mst papers ..."  | (Cor) "For example, most papers ... " | Mukesh Tiwari | 
 | 184/28//[1](#exp1)                   | "universe polymorphism" | (Cit) "universe polymorphism (Harper and Pollack, 1991)"  | Bob Harper |
 | 190/15//[2](#exp2)         | "Cohen et al., 2018"  | (Cit) "Angiuli et al., 2017; Cohen et al., 2018" |	Bob Harper |
+| 154/27// | "mush = ..." | (Cod) [see code fix](http://github.com/proofengineering/proofengineering.github.io/issues/4) | Joomy Korkut |
 
 # Explanations
 
