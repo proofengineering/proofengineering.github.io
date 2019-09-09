@@ -27,4 +27,4 @@ Abbreviations for different types of corrections:
 
 <a name="exp1">1</a>: The universe polymorphism algorithm in Coq that we cite is based on [Type Checking with Universes](https://doi.org/10.1016/0304-3975(90)90108-T) by Robert Harper and Randy Pollack. The DOI that we link to was published in 1991, though the algorithm surfaced in a draft from 1989 that is also available online [here](https://doi.org/10.1007/3-540-50940-2_39).
 
-<a name="exp2">2</a>: There are two flavors of cubical type theory, and we cite only one. The missing citation can be found in Computational Higher-Dimensional Type Theory by Carlo Angiuli, Robert Harper, and Todd Wilson
+<a name="exp2">2</a>: There are two flavors of cubical type theory, and we cite only one. The missing citation can be found in [Computational Higher-Dimensional Type Theory](https://doi.org/10.1145/3009837.3009861) by Carlo Angiuli, Robert Harper, and Todd Wilson
