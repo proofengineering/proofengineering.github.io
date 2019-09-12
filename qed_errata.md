@@ -20,7 +20,7 @@ Abbreviations for different types of corrections:
 - Fct - factual correction
 - Cit - correction or addition of citation
 - Cod - correction of code
-- Fct - clarification
+- Clar - clarification
 
 | Page/Line/Footnote/Explanation        | Original text           | (type of correction) Corrected text | Acknowledgement | 
 | ------------------------- | ----------------------- | ----------------------------------- | --------------- | 
