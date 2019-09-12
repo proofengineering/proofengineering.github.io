@@ -25,9 +25,12 @@ Abbreviations for different types of corrections:
 | 184/28//[1](#exp1)                   | "universe polymorphism" | (Cit) "universe polymorphism (Harper and Pollack, 1991)"  | Bob Harper |
 | 190/15//[2](#exp2)         | "Cohen et al., 2018"  | (Cit) "Angiuli et al., 2017; Cohen et al., 2018" |	Bob Harper |
 | 154/27// | "mush = ..." | (Cod) [see code fix](http://github.com/proofengineering/proofengineering.github.io/issues/4) | Joomy Korkut |
+| 163/22//[3](#exp3) | "Note that the extra spacing is necessary ... " | (Fct) omit---inaccurate | Peter Sewell |
 
 # Explanations
 
 <a name="exp1">1</a>: The universe polymorphism algorithm in Coq that we cite is based on [Type Checking with Universes](https://doi.org/10.1016/0304-3975(90)90108-T) by Robert Harper and Randy Pollack. The DOI that we link to was published in 1991, though the algorithm surfaced in a draft from 1989 that is also available online [here](https://doi.org/10.1007/3-540-50940-2_39).
 
 <a name="exp2">2</a>: There are two flavors of cubical type theory, and we cite only one. The missing citation can be found in [Computational Higher-Dimensional Type Theory](https://doi.org/10.1145/3009837.3009861) by Carlo Angiuli, Robert Harper, and Todd Wilson.
+
+<a name="exp3">3</a>: From Peter: "The grammar productions need spacing between tokens, to let Ott infer what the tokens are, but that spacing is not needed in the symbolic terms in inductive rules."
