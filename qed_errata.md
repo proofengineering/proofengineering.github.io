@@ -22,6 +22,7 @@ Abbreviations for different types of corrections:
 | ------------------------- | ----------------------- | ----------------------------------- | --------------- | 
 | 108/16//                   | "... a _regular language_ ..." | (Fct) "... a _language_ ..." | Virgil Serbanuta | 
 | 121/17//                   | "For example, mst papers ..."  | (Cor) "For example, most papers ... " | Mukesh Tiwari | 
+| 135///[4](#exp4) | | (Cit) missing early work on definitional mechanisms in HOL | Peter Sewell|
 | 154/27// | "mush = ..." | (Cod) [see code fix](http://github.com/proofengineering/proofengineering.github.io/issues/4) | Joomy Korkut |
 | 163/22//[3](#exp3) | "Note that the extra spacing is necessary ... " | (Fct) omit---inaccurate | Peter Sewell |
 | 163/24// | "The more general proof assistant-agnostic specification language Lem" | (Fct) "The proof assistant-agnostic specification language Lem" | Peter Sewell |
@@ -39,3 +40,6 @@ Abbreviations for different types of corrections:
 <a name="exp2">2</a>: There are at least two flavors of cubical type theory, and we cite only one. The missing citation can be found in [Computational Higher-Dimensional Type Theory](https://doi.org/10.1145/3009837.3009861) by Carlo Angiuli, Robert Harper, and Todd Wilson.
 
 <a name="exp3">3</a>: From Peter: "The grammar productions need spacing between tokens, to let Ott infer what the tokens are, but that spacing is not needed in the symbolic terms in inductive rules."
+
+<a name="exp4">4</a>: See, for example, [The HOL Logic Extended with Quantification over Type Variables](https://doi.org/10.1007/BF01383982) by Thomas F. Melham,
+and [A Package For Inductive Relation Definitions In HOL](https://doi.org/10.1109/hol.1991.596299), also by Thomas F. Melham.
