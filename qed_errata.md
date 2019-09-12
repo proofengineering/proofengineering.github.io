@@ -26,6 +26,7 @@ Abbreviations for different types of corrections:
 | 190/15//[2](#exp2)         | "Cohen et al., 2018"  | (Cit) "Angiuli et al., 2017; Cohen et al., 2018" |	Bob Harper |
 | 154/27// | "mush = ..." | (Cod) [see code fix](http://github.com/proofengineering/proofengineering.github.io/issues/4) | Joomy Korkut |
 | 163/22//[3](#exp3) | "Note that the extra spacing is necessary ... " | (Fct) omit---inaccurate | Peter Sewell |
+| 163/24// | "The more general proof assistant-agnostic specification language Lem" | (Fct) "The proof assistant-agnostic specification language Lem" | Peter Sewell |
 
 # Explanations
 
