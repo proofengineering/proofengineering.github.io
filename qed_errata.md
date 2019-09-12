@@ -6,6 +6,9 @@ The table below contains corrections to the original manuscript. When further ex
 it is provided below the table, and linked to within the first column. 
 Pending additions to the errata can be found in [Github issues](https://github.com/proofengineering/proofengineering.github.io/issues).
 
+A note on omissions: The survey paper often lists a non-exhaustive sample of work in a domain. This is to some degree necessary. 
+Still, this page lists omissions as relevant, especially when particularly influential work is missing or when sampled work is biased toward particular interactive theorem provers.
+
 # Corrections
 
 Page references are for printed line numbers (in the range 103 to 281).
@@ -21,7 +24,7 @@ Abbreviations for different types of corrections:
 | Page/Line/Footnote/Explanation        | Original text           | (type of correction) Corrected text | Acknowledgement | 
 | ------------------------- | ----------------------- | ----------------------------------- | --------------- | 
 | 108/16//                   | "... a _regular language_ ..." | (Fct) "... a _language_ ..." | Virgil Serbanuta | 
-| 112/18//[5](#exp5) | | (Cit) missing CompCertTSO | Peter Sewell |
+| 112/18//[5](#exp5) | | (Cit) missing CompCertTSO and Crellvm | Peter Sewell |
 | 121/17//                   | "For example, mst papers ..."  | (Cor) "For example, most papers ... " | Mukesh Tiwari | 
 | 135/1//[4](#exp4) | | (Cit) missing early work on definitional mechanisms in HOL | Peter Sewell|
 | 154/27// | "mush = ..." | (Cod) [see code fix](http://github.com/proofengineering/proofengineering.github.io/issues/4) | Joomy Korkut |
@@ -45,6 +48,7 @@ Abbreviations for different types of corrections:
 <a name="exp4">4</a>: See, for example, [The HOL Logic Extended with Quantification over Type Variables](https://doi.org/10.1007/BF01383982) by Thomas F. Melham,
 and [A Package For Inductive Relation Definitions In HOL](https://doi.org/10.1109/hol.1991.596299), also by Thomas F. Melham.
 
-<a name="exp5">5</a>: See [Verifying Fence Elimination Optimisations](https://doi.org/10.1007/978-3-642-23702-7_14) by Viktor Vafeiadis and Francesco Zappa Nardelli,
+<a name="exp5">5</a>: For CompCertTSO, see [Verifying Fence Elimination Optimisations](https://doi.org/10.1007/978-3-642-23702-7_14) by Viktor Vafeiadis and Francesco Zappa Nardelli,
 [Relaxed-Memory Concurrency and Verified Compilation](https://doi.org/10.1145/1926385.1926393) by Jaroslav Ŝevčik _et al._, 
 and [CompCertTSO: A Verified Compiler for Relaxed-Memory Concurrency](https://doi.org/10.1145/2487241.2487248) by Jaroslav Ŝevčik _et al._
+For Crellvm, see [Crellvm: Verified Credible Compilation for LLVM](https://doi.org/10.1145/3192366.3192377) by Jeehoon Kang _et al._
