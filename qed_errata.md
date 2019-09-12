@@ -30,6 +30,7 @@ Abbreviations for different types of corrections:
 | 154/27// | "mush = ..." | (Cod) [see code fix](http://github.com/proofengineering/proofengineering.github.io/issues/4) | Joomy Korkut |
 | 163/22//[3](#exp3) | "Note that the extra spacing is necessary ... " | (Fct) omit---inaccurate | Peter Sewell |
 | 163/24// | "The more general proof assistant-agnostic specification language Lem" | (Fct) "The proof assistant-agnostic specification language Lem" | Peter Sewell |
+| 176/13//[6](#exp6) | | (Cit) missing early simulation citations | Peter Sewell |
 | 179/18// | "defied" | (Cor) "defined" | Anton Trunov |
 | 183/30// | "dedicate" | (Cor) "dedicated" | Anton Trunov |
 | 184/28//[1](#exp1)                   | | (Cit) missing citation for universe polymorphism | Bob Harper |
@@ -52,3 +53,5 @@ and [A Package For Inductive Relation Definitions In HOL](https://doi.org/10.110
 [Relaxed-Memory Concurrency and Verified Compilation](https://doi.org/10.1145/1926385.1926393) by Jaroslav Ŝevčik _et al._, 
 and [CompCertTSO: A Verified Compiler for Relaxed-Memory Concurrency](https://doi.org/10.1145/2487241.2487248) by Jaroslav Ŝevčik _et al._
 For Crellvm, see [Crellvm: Verified Credible Compilation for LLVM](https://doi.org/10.1145/3192366.3192377) by Jeehoon Kang _et al._
+
+<a name="exp6">6</a>: We cite a tech report explaining simulation when we introduce the concept, but this dates back at least to Milner's [process calculus](https://dl.acm.org/citation.cfm?id=539036) work more than a decade before the cited report.
