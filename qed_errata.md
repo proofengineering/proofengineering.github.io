@@ -21,15 +21,16 @@ Abbreviations for different types of corrections:
 | Page/Line/Footnote/Explanation        | Original text           | (type of correction) Corrected text | Acknowledgement | 
 | ------------------------- | ----------------------- | ----------------------------------- | --------------- | 
 | 108/16//                   | "... a _regular language_ ..." | (Fct) "... a _language_ ..." | Virgil Serbanuta | 
+| 112/18//[5](#exp5) | | (Cit) missing CompCertTSO | Peter Sewell |
 | 121/17//                   | "For example, mst papers ..."  | (Cor) "For example, most papers ... " | Mukesh Tiwari | 
-| 135///[4](#exp4) | | (Cit) missing early work on definitional mechanisms in HOL | Peter Sewell|
+| 135/1//[4](#exp4) | | (Cit) missing early work on definitional mechanisms in HOL | Peter Sewell|
 | 154/27// | "mush = ..." | (Cod) [see code fix](http://github.com/proofengineering/proofengineering.github.io/issues/4) | Joomy Korkut |
 | 163/22//[3](#exp3) | "Note that the extra spacing is necessary ... " | (Fct) omit---inaccurate | Peter Sewell |
 | 163/24// | "The more general proof assistant-agnostic specification language Lem" | (Fct) "The proof assistant-agnostic specification language Lem" | Peter Sewell |
 | 179/18// | "defied" | (Cor) "defined" | Anton Trunov |
 | 183/30// | "dedicate" | (Cor) "dedicated" | Anton Trunov |
-| 184/28//[1](#exp1)                   | "universe polymorphism" | (Cit) "universe polymorphism (Harper and Pollack, 1991)"  | Bob Harper |
-| 190/15//[2](#exp2)         | "Cohen et al., 2018"  | (Cit) "Angiuli et al., 2017; Cohen et al., 2018" |	Bob Harper |
+| 184/28//[1](#exp1)                   | | (Cit) missing citation for universe polymorphism | Bob Harper |
+| 190/15//[2](#exp2)         |  | (Cit) missing citations for cubical type theory |	Bob Harper |
 | 238/2// | "The End of History:" | (Cit) "The End of History?" | Anton Trunov |
 
 
@@ -43,3 +44,7 @@ Abbreviations for different types of corrections:
 
 <a name="exp4">4</a>: See, for example, [The HOL Logic Extended with Quantification over Type Variables](https://doi.org/10.1007/BF01383982) by Thomas F. Melham,
 and [A Package For Inductive Relation Definitions In HOL](https://doi.org/10.1109/hol.1991.596299), also by Thomas F. Melham.
+
+<a name="exp5">5</a>: See [Verifying Fence Elimination Optimisations](https://doi.org/10.1007/978-3-642-23702-7_14) by Viktor Vafeiadis and Francesco Zappa Nardelli,
+[Relaxed-Memory Concurrency and Verified Compilation](https://doi.org/10.1145/1926385.1926393) by Jaroslav Ŝevčik _et al._, 
+and [CompCertTSO: A Verified Compiler for Relaxed-Memory Concurrency](https://doi.org/10.1145/2487241.2487248) by Jaroslav Ŝevčik _et al._
