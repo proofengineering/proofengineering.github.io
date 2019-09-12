@@ -20,6 +20,7 @@ Abbreviations for different types of corrections:
 - Fct - factual correction
 - Cit - correction or addition of citation
 - Cod - correction of code
+- Fct - clarification
 
 | Page/Line/Footnote/Explanation        | Original text           | (type of correction) Corrected text | Acknowledgement | 
 | ------------------------- | ----------------------- | ----------------------------------- | --------------- | 
@@ -31,6 +32,7 @@ Abbreviations for different types of corrections:
 | 163/22//[3](#exp3) | "Note that the extra spacing is necessary ... " | (Fct) omit---inaccurate | Peter Sewell |
 | 163/24// | "The more general proof assistant-agnostic specification language Lem" | (Fct) "The proof assistant-agnostic specification language Lem" | Peter Sewell |
 | 176/13//[6](#exp6) | | (Cit) missing early simulation citations | Peter Sewell |
+| 176/30//[7](#exp7) | "Together, a forward and a backward simulation establish indistinguishability" | (Fct) not always---see note | Peter Sewell |
 | 179/18// | "defied" | (Cor) "defined" | Anton Trunov |
 | 183/30// | "dedicate" | (Cor) "dedicated" | Anton Trunov |
 | 184/28//[1](#exp1)                   | | (Cit) missing citation for universe polymorphism | Bob Harper |
@@ -55,3 +57,7 @@ and [CompCertTSO: A Verified Compiler for Relaxed-Memory Concurrency](https://do
 For Crellvm, see [Crellvm: Verified Credible Compilation for LLVM](https://doi.org/10.1145/3192366.3192377) by Jeehoon Kang _et al._
 
 <a name="exp6">6</a>: We cite a tech report explaining simulation when we introduce the concept, but this dates back at least to Milner's [process calculus](https://dl.acm.org/citation.cfm?id=539036) work more than a decade before the cited report.
+
+<a name="exp7">7</a>: The coverage of simulation in this survey is a bit simplified. Much of the simulation literature defines simulation in terms of _observable behavior_.
+The truth of this particular comment about indistinguishability depends on the definition of "observable behavior."
+
