@@ -34,6 +34,7 @@ Abbreviations for different types of corrections:
 | 163/30// | | (Cit) missing citation for [Specware](http://www.specware.org/) in refinement | Matthew Wilson |
 | 164/9// | "This relation can also be stated and proven ... " | (Clar) "This relation can also be proven ... " | Tej Chajed |
 | 164/30// | | (Clar) It is a stretch to include proof and program refinement in the same section | Tej Chajed |
+| 170/1// | "more the more" | (Cor) "the more" | Christoph Baumann |
 | 176/13//[6](#exp6) | | (Cit) missing early simulation citations | Peter Sewell |
 | 176/16//[8](#exp8) | | (Clar) CompCert simulation terminology is confusing (see note) | Tej Chajed |
 | 176/30//[7](#exp7) | "Together, a forward and a backward simulation establish indistinguishability" | (Fct) not always---see note | Peter Sewell |
