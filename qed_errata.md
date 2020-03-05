@@ -68,7 +68,7 @@ For Crellvm, see [Crellvm: Verified Credible Compilation for LLVM](https://doi.o
 <a name="exp7">7</a>: The coverage of simulation in this survey is a bit simplified. Much of the simulation literature defines simulation in terms of _observable behavior_.
 The truth of this particular comment about indistinguishability depends on the definition of "observable behavior."
 
-<a name="exp8">8</a>: While CompCert is one of the most well-known modern uses of simulation, the term "backward simulation" as used by CompCert is not
+<a name="exp8">8</a>: The term "backward simulation" as used by CompCert is not
 the same as "backward simulation" as used by other sources like the cited tech report and [Butler Lampson's lecture notes](https://web.mit.edu/6.826/www/notes/HO8.pdf).
 In those sources, "backward simulation" refers to induction in reverse execution order.
 
