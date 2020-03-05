@@ -32,6 +32,7 @@ Abbreviations for different types of corrections:
 | 163/22//[3](#exp3) | "Note that the extra spacing is necessary ... " | (Fct) omit---inaccurate | Peter Sewell |
 | 163/24// | "The more general proof assistant-agnostic specification language Lem" | (Fct) "The proof assistant-agnostic specification language Lem" | Peter Sewell |
 | 164/9// | "This relation can also be stated and proven ... " | (Clar) "This relation can also be proven ... " | Tej Chajed |
+| 164/30// | | (Clar) It is a stretch to include proof and program refinement in the same section | Tej Chajed |
 | 176/13//[6](#exp6) | | (Cit) missing early simulation citations | Peter Sewell |
 | 176/30//[7](#exp7) | "Together, a forward and a backward simulation establish indistinguishability" | (Fct) not always---see note | Peter Sewell |
 | 179/18// | "defied" | (Cor) "defined" | Anton Trunov |
