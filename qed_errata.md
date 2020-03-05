@@ -31,6 +31,7 @@ Abbreviations for different types of corrections:
 | 154/27// | "mush = ..." | (Cod) [see code fix](http://github.com/proofengineering/proofengineering.github.io/issues/4) | Joomy Korkut |
 | 163/22//[3](#exp3) | "Note that the extra spacing is necessary ... " | (Fct) omit---inaccurate | Peter Sewell |
 | 163/24// | "The more general proof assistant-agnostic specification language Lem" | (Fct) "The proof assistant-agnostic specification language Lem" | Peter Sewell |
+| 164/9// | "This relation can also be stated and proven ... " | (Clar) "This relation can also be proven ... " | Tej Chajed |
 | 176/13//[6](#exp6) | | (Cit) missing early simulation citations | Peter Sewell |
 | 176/30//[7](#exp7) | "Together, a forward and a backward simulation establish indistinguishability" | (Fct) not always---see note | Peter Sewell |
 | 179/18// | "defied" | (Cor) "defined" | Anton Trunov |
@@ -38,7 +39,6 @@ Abbreviations for different types of corrections:
 | 184/28//[1](#exp1)                   | | (Cit) missing citation for universe polymorphism | Bob Harper |
 | 190/15//[2](#exp2)         |  | (Cit) missing citations for cubical type theory |	Bob Harper |
 | 238/2// | "The End of History:" | (Cit) "The End of History?" | Anton Trunov |
-
 
 # Explanations
 
