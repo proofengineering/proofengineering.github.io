@@ -43,6 +43,7 @@ Abbreviations for different types of corrections:
 | 183/30// | "dedicate" | (Cor) "dedicated" | Anton Trunov |
 | 184/28//[1](#exp1)                   | | (Cit) missing citation for universe polymorphism | Bob Harper |
 | 190/15//[2](#exp2)         |  | (Cit) missing citations for cubical type theory |	Bob Harper |
+| 191/27// | | (Clar) "REPL" is first used here, but defined later on page 196 | Christoph Baumann |
 | 238/2// | "The End of History:" | (Cit) "The End of History?" | Anton Trunov |
 
 # Explanations
