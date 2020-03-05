@@ -39,6 +39,7 @@ Abbreviations for different types of corrections:
 | 176/16//[8](#exp8) | | (Clar) CompCert simulation terminology is confusing (see note) | Tej Chajed |
 | 176/30//[7](#exp7) | "Together, a forward and a backward simulation establish indistinguishability" | (Fct) not always---see note | Peter Sewell |
 | 179/18// | "defied" | (Cor) "defined" | Anton Trunov |
+| 182/19// | "his can" | (Cor) "this can" | Christoph Baumann |
 | 183/30// | "dedicate" | (Cor) "dedicated" | Anton Trunov |
 | 184/28//[1](#exp1)                   | | (Cit) missing citation for universe polymorphism | Bob Harper |
 | 190/15//[2](#exp2)         |  | (Cit) missing citations for cubical type theory |	Bob Harper |
